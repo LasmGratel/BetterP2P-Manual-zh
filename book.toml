@@ -1,0 +1,9 @@
+[book]
+authors = ["Lasm Gratel"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Better P2P"
+
+[build]
+build-dir = "docs"
